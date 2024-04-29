@@ -1,0 +1,7 @@
+Budi adalah pencuri atau saya polisi
+Hari bisa saja menuduh bahwa saya pencuri
+Lestari dan Hari bukanlah seorang polisi
+
+Kesimpulan yang diperoleh : Hari = polisi
+Lestari = polisi
+Budi = pencuri

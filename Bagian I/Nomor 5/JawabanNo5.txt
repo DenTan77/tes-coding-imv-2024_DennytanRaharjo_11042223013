@@ -1,0 +1,9 @@
+Chaca > Rey & Chaca < Rey
+Prita != Rey & tugas[Prita] < tugas [Rey] & tugas[Chaca]
+Yunjin > Chaca & tugas[yunjin] > tugas[Chaca]
+
+Urutan kebahagiaan
+Prita, Rey, Chaca, Yunjin
+Urutan Tugas
+Prita Chaca Yunjin Rey
+Jadi kesimpulannya adalah orang yang lebih bahagia adalah Chaca

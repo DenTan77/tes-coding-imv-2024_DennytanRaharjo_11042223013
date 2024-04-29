@@ -1,0 +1,7 @@
+Diketahui = t1 = 30 menit = 900 s
+Jika kereta berjalan 50 km/jam lebih cepat. Waktu tempuh berkurang 30 menit
+Ditanyakan : Jarak Stasiun 
+Jawab = 
+30 = 20
+x  (x+50)
+30x + 1500 = 20x

@@ -1,0 +1,4 @@
+Cia > Ari > Elang
+Danny > Bani > Cia
+Kesimpulan  yang diperoleh : Danny > Bani > Cia > Ari > Elang
+Pemakan apel urutan 3 adalah Cia
